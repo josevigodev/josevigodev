@@ -1,5 +1,5 @@
 ## About Me:
-Frontend developer passionate about clean design, animations, and real-world projects using React and Next.js
+Frontend developer passionate about clean design, animations, and real-world projects.
 
 
 ## Socials:
