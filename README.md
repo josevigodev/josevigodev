@@ -8,8 +8,10 @@
 
 ## 🧠 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, SQL
-**Frontend:** React, Next.js, Flutter, Tailwind CSS, Redux Toolkit, TanStack Query, Framer Motion, GSAP
-**APIs / Backend / DB:**  Node.js, NestJS, Express.js, PostgreSQL, Socket.io, Prisma ORM, BullMQ 
+**Languages:** JavaScript (ES6+), TypeScript, SQL  
+**Frontend:** React, Next.js, Flutter, Tailwind CSS, Redux Toolkit, TanStack Query, Framer Motion, GSAP  
+**APIs / Backend / DB:**  Node.js, NestJS, Express.js, PostgreSQL, Socket.io, Prisma ORM, BullMQ   
 **Testing:** React Testing Library, Cypress, Jest  
-**Tools & Infra:** Docker, AWS, Git, Linux, Vercel, Render, CI/CD
+**Tools & Infra:** Docker, AWS, Git, Linux, Vercel, Render, CI/CD  
+
+---
