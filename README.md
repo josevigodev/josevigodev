@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naresh-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=josevigodev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ## 🧠 Tech Stack
