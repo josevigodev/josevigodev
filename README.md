@@ -19,3 +19,8 @@
 **Tools & Infra:** Docker, AWS, Git, Linux, Vercel, Render, CI/CD  
 
 ---
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josevigodev&theme=dark" alt="GitHub Streak"/>
+</p>
