@@ -5,7 +5,7 @@
   🌐 I build modern, high-performance Software.  
   🔗 Portfolio: <a href="https://josevigodev.github.io/personal-portfolio-web/">josevigo.dev</a>
 </p>
-
+ 
 ## 🧠 Tech Stack
 
 **Languages:** JavaScript (ES6+), TypeScript, SQL, Dart
