@@ -5,18 +5,13 @@
   🌐 I build modern, high-performance Software.  
   🔗 Portfolio: <a href="https://josevigodev.github.io/personal-portfolio-web/">josevigo.dev</a>
 </p>
- 
+
+---
+
 ## 🧠 Tech Stack
 
-**Languages:** JavaScript (ES6+), TypeScript, SQL, Dart
+**Languages:** JavaScript (ES6+), TypeScript, SQL, Dart   
 **Frontend:** React, Next.js, Flutter, Tailwind CSS, Redux Toolkit, TanStack Query, Framer Motion, GSAP  
 **APIs / Backend / DB:**  Node.js, NestJS, Express.js, PostgreSQL, Socket.io, Prisma ORM, BullMQ   
 **Testing:** React Testing Library, Cypress, Jest  
 **Tools & Infra:** Docker, AWS, Git, Linux, Vercel, Render, CI/CD  
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josevigodev&theme=dark" alt="GitHub Streak"/>
-</p>
