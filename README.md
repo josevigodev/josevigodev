@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jose Vigo 👋</h1>
+<h1 align="center" border="none">Hi, I'm Jose Vigo 👋</h1>
 
 ---
 
